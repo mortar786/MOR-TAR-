@@ -91,13 +91,16 @@
       <li>Competitive pricing</li>
     </ul>
   </section>
-
-  Contact  
-Wasif Omar / Syed Khadri  
-Hyderabad / Shaikpet  
-Phone: 9849010271, 9966132328  
-Email: khadrisyed80@gmail.com
+ <section class="contact">
+    <h2>Contact</h2>
+    <p>Syed Khadri / Wasif Omer - Hyderabad Shaikpet</p>
+    <p>Phone: 9849010271, 9966132328</p>
     <p>Email: khadrisyed80@gmail.com</p>
+  </section>
+
+  <footer>
+    &copy; 2025 MOR-TAR. All rights reserved.
+  </footer>
   </section>
 
   <footer>
