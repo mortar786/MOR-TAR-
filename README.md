@@ -93,9 +93,10 @@
   </section>
  <section class="contact">
     <h2>Contact</h2>
+   
     <p>Syed Khadri / Wasif Omer - Hyderabad Shaikpet</p>
     <p>Phone: 9849010271, 9966132328</p>
-    <p>Email: khadrisyed80@gmail.com</p>
+    <p>Email:khadrisyed80@gmail.com</p>
   </section>
 
   <footer>
