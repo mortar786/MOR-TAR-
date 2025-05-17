@@ -55,9 +55,10 @@
 </head>
 <body>
   <header>
-    <h1>MOR-TAR</h1>
-    <div>Call: 9849010271</div>
-  </header>
+  <img src="logo.png" alt="MOR-TAR logo" style="height: 50px; vertical-align: middle; margin-right: 10px;">
+  <h1>MOR-TAR</h1>
+  <div>Call: 9849010271</div>
+</header>
 
   <section>
     <h2>About Us</h2>
